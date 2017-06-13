@@ -1,0 +1,26 @@
+{
+  "name": "podcast-wave",
+  "version": "0.1.0",
+  "description": "An intuitive audio editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedoranimus/podcast-wave.git"
+  },
+  "author": "Tim Turner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedoranimus/podcast-wave/issues"
+  },
+  "homepage": "https://github.com/fedoranimus/podcast-wave#readme",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "electron": "1.6.11",
+    "typescript": "^2.3.4"
+  }
+}
